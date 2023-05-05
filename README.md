@@ -1,11 +1,4 @@
-## はじめまして
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Nwekoder)
-[![GitHub Nwekoder](https://img.shields.io/github/followers/Nwekoder?label=follow&style=social)](https://github.com/Nwekoder)
-<br>
-My name is Chandra Hasan. I'm a newbie NodeJS and Python developer. I'm focusing on Web Application development and Server-side application like APIs. I have experience in NodeJS for almost 2 years and now i'm working on some small projects at my workplace. I also learned other programming languages like C and C++ for Microcontroller for 8 months. I'm mostly works with NodeJS to create Web Application and APIs. I also use Python for Web Automation and CLI App, it helps me to increase my productivity and to scrap data from other website or API.
+## Hello
+My name is Chandra Hasan, i'm a self-thaught programmer with mostly spending my time on Full Stack Web Development. I use Javascript/Typescript so often when creating web apps or just website for most of my project. I also use Python to automate my jobs at the office, that's the only stuff that i do with Python. I also C, C++ and PHP for some project that i working on, but not so often to have such project. My full time job is Web Developer, but i also teaching about Web Development, Networking and Server (Basic Linux stuff) to Vocational High School students every years for the past 3 years. Don't worry, that doesn't mean my programming skills not as good most programmers does. I have experience in Web Development since 3rd Grade Junior High School, so it's been 6 years since the first time i write my first HTML codes.
 
-### My Stats
-<a href='https://github.com/Nwekoder/'> <img src='https://github-readme-stats.vercel.app/api?username=Nwekoder&count_private=true&show_icons=true&bg_color=52,1d2c75,6777cc,162670&title_color=0e1845&text_color=ffffff&hide_border=true&icon_color=ffffff&hide=contribs,prs&count_private=true&include_all_commits=true'> </a>
-
-### My Most Used Language
-<a href='https://github.com/Nwekoder/'> <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Nwekoder&bg_color=52,1d2c75,6777cc,162670&title_color=0e1845&text_color=ffffff&hide_border=true&icon_color=ffffff'> </a>
+I also really like rhythm game and Japan related stuff like anime and manga. Feel free to contact me if you need help or you have job offer for me XD
